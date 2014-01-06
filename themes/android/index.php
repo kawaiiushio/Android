@@ -63,11 +63,4 @@ get_header(); ?>
 	</div><!-- #primary -->
 
 <?php get_sidebar(); ?>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <?php get_footer(); ?>
